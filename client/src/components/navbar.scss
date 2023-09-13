@@ -1,0 +1,21 @@
+*{
+    margin: none;
+    padding: none;
+}
+.navbarContainer{
+    display: flex;
+    justify-content: space-between;
+    background-color: darkgray;
+    padding: 1rem;
+    .logo{
+        
+    }
+    .links{
+        display: flex;
+        list-style-type: none;
+        gap: 1rem;
+        
+        
+        
+    }
+}
