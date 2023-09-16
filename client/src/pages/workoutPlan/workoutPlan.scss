@@ -1,0 +1,12 @@
+.workoutPlanPage{
+    .gridColContainer{
+        display: grid;
+        grid-template-columns: repeat(7,1fr);
+        border: 1px solid gray;
+    }
+    .gridExerciseContainer{
+        display: grid;
+        grid-template-columns: repeat(7,1fr);
+        border: 1px solid gray;
+    }
+}
